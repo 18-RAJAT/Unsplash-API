@@ -1,0 +1,20 @@
+.btn{
+		margin: 0;
+		padding: .10rem 0;
+		line-height: 1.2;
+		font-size: 1rem;
+    transition: .5s ease;
+			counter-increment: section;
+			display:flexbox;
+			font-size: 2rem;
+			font-weight:700;
+			line-height:1;
+			padding: 60px;
+			margin: 0;
+			color: rgba(170, 0, 248, 0.37);
+			z-index: 0;
+}
+
+.col-lg-3 col-md-4 col-6{
+  background-color: yellow;
+}
